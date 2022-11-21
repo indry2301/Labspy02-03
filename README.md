@@ -1,7 +1,7 @@
 # Labspy02-03
 # Tugas Praktikum 2
 # labspy02
-# PROGRAM MENENTUKAN BILANGAN TERBESAR DARI 3 BUAH BILANGAN
+# Program menentukan bilangan terbesar dari 3 buah bilangan
 ## Bagaimana Logikanya?
 - Misal kita punya 3 variabel a, b, dan c.
 - Kapan variabel a dikatakan yang terbesar?
@@ -15,7 +15,7 @@
 <img width="240" alt="flowchart" src="https://user-images.githubusercontent.com/115906333/202988240-3647bb34-2232-4319-b856-966a5fd17b39.png">.
 # Tugas Praktikum 3
 # labpy03
-# LATIHAN 1: LATIHAN MENAMPILKAN BILANGAN ACAK YANG LEBIH KECIL DARI 0,5
+# Latihan 1: Latihan menampilkan bilangan acak yang lebih kecil dari 0,5
 - Tampilkan n bilangan acak yang lebih kecil dari 0,5.
 - Nilai n diisi pada saat runtime.
 - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
@@ -24,12 +24,12 @@
 <img width="436" alt="latihan1" src="https://user-images.githubusercontent.com/115906333/202989109-27478bf9-2bed-496d-8c13-e6b3769000fd.png">.
 ## Outputnya seperti ini:
 <img width="273" alt="hasillatihan1" src="https://user-images.githubusercontent.com/115906333/202989187-1e16f252-ed06-442a-b3ef-0f558295ba95.png">.
-# LATIHAN 2: MENAMPILKAN BILANGAN TERBESAR DARI N BUAH DATA YANG DIINPUTKAN, MASUKKAN ANGKA 0 UNTUK BERHENTI
+# Latihan 2: Latihan menampilkan bilangan terbesar dari n buah data yang diinputkan, masukkan angka 0 untuk berhenti
 ## Codingannya:
 <img width="343" alt="latihan2" src="https://user-images.githubusercontent.com/115906333/202989565-4441e42d-e129-4048-9155-0604470e166a.png">.
 ## Outputnya seperti ini:
 <img width="295" alt="hasillatihan2" src="https://user-images.githubusercontent.com/115906333/202989629-dab6b36d-7524-4126-9b22-d8a73a8a0c39.png">.
-# LATIHAN 3: PROGRAM 1
+# Latihan 3: Program 1
 - Buat program sederhana dengan perulangan.
 - Seorang pengusaha menginvestasikan uangnya untuk memulai usaha.
 - Dengan modal awal 100 juta.
@@ -45,6 +45,20 @@
 <img width="303" alt="program1(3)" src="https://user-images.githubusercontent.com/115906333/202990873-e0062bc6-3ee0-4d07-8824-f868eefd56a4.png">.
 ## Outputnya seperti ini:
 <img width="297" alt="hasilprogram1" src="https://user-images.githubusercontent.com/115906333/202990938-46a551bf-9038-4251-9ced-721b9edbe584.png">.
+# Struktur Kondisi dan Perulangan
+# Latihan Perulangan: Membuat program dengan perulangan bertingkat
+## Codingannya:
+<img width="376" alt="perulangannested" src="https://user-images.githubusercontent.com/115906333/202992699-1f248aad-2a53-4197-8226-8c800e9de154.png">.
+## Outputnya seperti ini:
+<img width="410" alt="hasilperulangannested" src="https://user-images.githubusercontent.com/115906333/202992810-c98488fb-f62b-4835-a98d-40399f231352.png">.
+# Latihan Struktur Kondisi: Program mengurutkan data berdasarkan input sejumlah data
+## Codingannya:
+<img width="345" alt="mengurutkandata" src="https://user-images.githubusercontent.com/115906333/202993153-46732833-b263-450e-9b6b-d16654014e5e.png">.
+## Outputnya seperti ini:
+<img width="282" alt="hasilmengurutkandata" src="https://user-images.githubusercontent.com/115906333/202993232-dd273c5d-8c2c-4612-8c78-71dc00e7b60c.png">.
+
+
+
 
 
 
